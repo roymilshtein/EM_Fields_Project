@@ -1,6 +1,6 @@
 # Electromagnetic Fields Project
 
-This repository contains MATLAB code and supporting documents for a project dealing with electromagnetic fields, specifically focusing on two problems: calculating the charge on a disk and determining the capacity of a circular capacitor.
+This project contains MATLAB code and supporting documents dealing with electromagnetic fields, specifically focusing on two problems: calculating the charge on a disk and determining the capacity of a circular capacitor.
 
 ## Project Overview
 
